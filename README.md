@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/AntoineDao/honeybee.svg?branch=master)](https://travis-ci.org/AntoineDao/honeybee)
+
 ![Honeybee](http://www.ladybug.tools/assets/img/honeybee.png)
 
 # honeybee
