@@ -1,4 +1,4 @@
-FROM antoinedao/ladybug
+FROM antoinedao/ladybug:lighter-docker
 MAINTAINER Antoine Dao "antoine.dao@burohappold.com"
 
 # copy radiance
